@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Borja</h1>
 <h3 align="center">A passionate developer from Spain, focused on Machine Learning and becoming a Full Stack Data Engineer</h3>
 
-- 🔭 I’m currently working on [42 School](Common Core)
+- 🔭 I’m currently working on **42 School Common Core**
 
 - 🌱 I’m currently learning **PyTorch, TensorFlow and Cloud Architecture**
 
