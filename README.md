@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on **42 School Common Core**
 
+[![bde-mada's 42 stats](https://badge42.vercel.app/api/v2/clbeaofrr00100gjor57krp4o/stats?cursusId=21&coalitionId=174)](https://github.com/JaeSeoKim/badge42)
+
 - 🌱 I’m currently learning **PyTorch, TensorFlow and Cloud Architecture**
 
 - 📫 How to reach me **bmadaleza@gmail.com**
