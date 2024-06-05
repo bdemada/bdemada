@@ -7,7 +7,7 @@
 <!---[![bde-mada's 42 stats](https://badge42.vercel.app/api/v2/clbeaofrr00100gjor57krp4o/stats?cursusId=21&coalitionId=174)]([https://github.com/JaeSeoKim/badge42](https://profile.intra.42.fr/users/bde-mada))--->
 
 - 🌱 I’m currently learning **PyTorch, TensorFlow and Cloud Architecture**
-- 🖥️ I'm current working for Olympic Channel Services' Analytics team
+- 🖥️ I'm current working with the [Olympic Channel Services](https://es.linkedin.com/company/olympic-channel)' Analytics team
 
 - 📫 How to reach me **bmadaleza@gmail.com**
 
